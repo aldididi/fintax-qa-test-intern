@@ -10,6 +10,30 @@ Follow this setup only if you want to use a local copy of this application.
 To start the application, run `python qa_interview.py` and visit `localhost:6464` in your browser.
 
 
+## What the application does
+
+The application calculates the factorial of a given number. We have exactly one page with:
+* one text box
+* one submit button
+* a page title
+* three hyperlinks
+* a copyright message
+
+
+## Hint
+
+The app has been seeded with a variety of bugs:
+* a major functional bug
+* a data limit bug
+* a usability bug
+* a typo
+* a bug to test if the QA is reading the page content
+* a slightly weird wording
+* a cross-browser bug
+
+The app also has several workflows which will work well and that the QA being interviewed should check. E.g.: Entering an integer followed by a string followed by an integer (does the form validation clear?).
+
+
 ## Guide
 
 * Check functional correctness
@@ -23,3 +47,4 @@ To start the application, run `python qa_interview.py` and visit `localhost:6464
 * List your test cases (you can divide to positive cases and negative cases)
 * Create the automation test using Selenium **or** Katalon. For each tool, you can choose to use Java **or** Python
 * Create test documentation based on your test cases
+
