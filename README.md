@@ -45,6 +45,6 @@ The app also has several workflows which will work well and that the QA being in
 ## Task
 
 * List your test cases (you can divide to positive cases and negative cases)
-* Create the automation test using Selenium **or** Katalon. For each tool, you can choose to use Java **or** Python
+* Create the automation test using **Selenium Java**
 * Create test documentation based on your test cases
 
