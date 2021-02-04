@@ -4,6 +4,10 @@ Follow this setup only if you want to use a local copy of this application.
 
 1. `pip install requirements.txt`
 
+*OR**
+
+You can access the app directly to `http://qainterview.pythonanywhere.com` so you can skip the `How to run the application` step(s).
+
 
 ## How to run the application
 
@@ -45,6 +49,6 @@ The app also has several workflows which will work well and that the QA being in
 ## Task
 
 * List your test cases (you can divide to positive cases and negative cases)
-* Create the automation test using **Selenium Java**
+* Create the automation test using **Selenium Java** **OR** **Katalon**
 * Create test documentation based on your test cases
 
