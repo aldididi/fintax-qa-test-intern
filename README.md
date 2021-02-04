@@ -4,7 +4,7 @@ Follow this setup only if you want to use a local copy of this application.
 
 1. `pip install requirements.txt`
 
-*OR**
+**OR**
 
 You can access the app directly to `http://qainterview.pythonanywhere.com` so you can skip the `How to run the application` step(s).
 
